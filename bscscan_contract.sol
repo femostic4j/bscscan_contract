@@ -4,7 +4,11 @@
 
 pragma solidity ^0.8.7;
 
+import "./swap.sol";
 
+contract swap is bscscan_contract{
+    
+}
 
 
 //CONTEXT
